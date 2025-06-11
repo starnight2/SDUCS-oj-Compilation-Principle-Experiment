@@ -4,9 +4,7 @@
 
 #### 合理参考学习，可配合AI放心食用
 
-![image-20250611205127586](C:\Users\Night\AppData\Roaming\Typora\typora-user-images\image-20250611205127586.png)
-
-
+![OJ展示图](IMAGES/oj.png)
 
 oj实验声明：
 
