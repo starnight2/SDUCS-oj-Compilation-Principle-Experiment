@@ -1,6 +1,11 @@
 # SDUCS编译原理实验
 
-注：实验A和实验B如果在windows下运行，粘贴输入后需要按"Enter"后，"Ctrl+Z+Enter"才能执行(程序在等待**输入结束标志**，Linux是"Ctrl+D")
+### 注：实验A和实验B如果在windows下运行，粘贴输入后需要按"Enter"后，"Ctrl+Z+Enter"才能执行(程序在等待**输入结束标志**，Linux是"Ctrl+D")
+
+#### 合理参考学习，可配合AI放心食用
+
+![image-20250611205127586](C:\Users\Night\AppData\Roaming\Typora\typora-user-images\image-20250611205127586.png)
+
 
 
 oj实验声明：
